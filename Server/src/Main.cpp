@@ -1,6 +1,6 @@
 #include <iostream>
 #include <list>
-#include <enet/enet.h>
+#include <enet/enet.hpp>
 
 using namespace std;
 
